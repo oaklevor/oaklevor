@@ -10,6 +10,7 @@
   - HTML/CSS
   - Blazor
   - .NET
+- Check out some of my projects under repositories! 
 
 <!---
 oaklevor/oaklevor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
